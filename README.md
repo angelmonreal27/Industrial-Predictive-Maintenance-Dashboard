@@ -59,7 +59,7 @@ http://localhost:8501
 
 ---
 
-### Authors
+### Contributors
 - Algozo, Jairos Joash
 - Almalvez, Aira Shane
 - Elamparo, Aaron Rafael
